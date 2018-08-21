@@ -1,5 +1,7 @@
 # react-breadcrumbs-context
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/charlieduong94/react-breadcrumbs-context.svg)](https://greenkeeper.io/)
+
 A lightweight, router agnostic implementation of breadcrumbs using the
 [Context API](https://reactjs.org/docs/context.html) introduced in
 React 16. Unlike other breadcrumb implementations, this module
